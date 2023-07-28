@@ -1,3 +1,3 @@
-# -.tg_bot
-##bot for teachers
-###made by kirill and kitty
+# tg_bot_xaxaxaxaxton
+## bot for teachers
+### made by kirill and kitty
